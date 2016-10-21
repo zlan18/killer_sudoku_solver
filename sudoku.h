@@ -1,8 +1,3 @@
-//Student ID: 140009228
-//3 March 2016
-//C Programming 2
-//sudoku.h
-
 #ifndef SUDOKU_H
 #define SUDOKU_H
 
