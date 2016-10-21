@@ -1,8 +1,3 @@
-#Student ID: 14009228
-#3 March 2016
-#C Programming 2
-#makefile
-	
 sudoku: sudokuMain.o sudokuParser.o sudokuSolver.o
 	gcc sudokuMain.o sudokuParser.o sudokuSolver.o -lm -o sudoku -std=c99 -Wall -Wextra -g
 
