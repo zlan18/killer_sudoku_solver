@@ -1,8 +1,3 @@
-//Student ID: 140009228
-//3 March 2016
-//C Programming 2
-//sudokuMain.c
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "sudoku.h"
